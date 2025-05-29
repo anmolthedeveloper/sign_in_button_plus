@@ -1,0 +1,22 @@
+/// This is a list of all the library built buttons.
+enum Buttons {
+  email,
+  google,
+  googleDark,
+  facebook,
+  facebookNew,
+  gitHub,
+  apple,
+  appleDark,
+  linkedIn,
+  pinterest,
+  tumblr,
+  twitter,
+  reddit,
+  quora,
+  yahoo,
+  hotmail,
+  xbox,
+  microsoft,
+  anonymous,
+}
