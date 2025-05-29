@@ -84,6 +84,6 @@ enum Buttons {
 }
 ```
 
-<img src="https://github.com/anmolthedeveloper/sign_in_button_plus/raw/master/showcase.png" width="300">
+<img src="https://github.com/anmolthedeveloper/sign_in_button_plus/raw/main/showcase.png" width="300">
 
 **Refer to example folder and the source code for more information.**
