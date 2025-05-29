@@ -1,10 +1,10 @@
-name: sign_in_button
+name: sign_in_button_plus
 description: A Flutter plugin for generating sign-in buttons for different social media accounts.
-homepage: https://github.com/juliansteenbakker/sign_in_button
-version: 3.2.0
+homepage: https://github.com/anmolthedeveloper/sign_in_button_plus
+version: 1.0.0
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=3.0.3 <4.0.0'
 
 dependencies:
   flutter:

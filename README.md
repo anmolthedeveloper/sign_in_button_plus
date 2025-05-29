@@ -1,4 +1,4 @@
-Fork from flutter_signin_button.
+Fork from sign_in_button.
 
 A Flutter plugin for iOS and Android for generating sign-in buttons for different social media account.
 
@@ -11,7 +11,7 @@ Add to pubspec.yaml.
 ```yaml
 dependencies:
   ...
-  sign_in_button: ^3.0.0
+  sign_in_button_plus: ^1.0.0
 ```
 
 ## Usage Example
@@ -19,7 +19,7 @@ dependencies:
 import sign_in_button.dart
 
 ```dart
-import 'package:sign_in_button/sign_in_button.dart';
+import 'package:sign_in_button_plus/sign_in_button_plus.dart';
 ```
 
 ### For built-in buttons.
@@ -84,6 +84,6 @@ enum Buttons {
 }
 ```
 
-<img src="https://github.com/juliansteenbakker/sign_in_button/raw/master/showcase.png" width="300">
+<img src="https://github.com/anmolthedeveloper/sign_in_button_plus/raw/master/showcase.png" width="300">
 
 **Refer to example folder and the source code for more information.**
